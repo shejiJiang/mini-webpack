@@ -9,6 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "tapable": "^1.1.3",
-    "loader-runner": "^2.3.0"
+    "loader-runner": "^2.3.0",
+    "acorn": "^6.2.0"
   }
 }
